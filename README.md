@@ -5,7 +5,7 @@ Me chamo Vitor Manoel Silva Sanatana, tenho 15 anos. Sou natural de Diadema - S�
 <br/>
 Estudo no Instituto Federal Catarinense – Campus Araquari, no curso técnico em Informática para Internet integrado ao ensino médio.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens 
 ---
 <img 
     align="left" 
