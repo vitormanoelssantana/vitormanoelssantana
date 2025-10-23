@@ -1,9 +1,5 @@
 # Vitor Manoel Silva Santana
-
----
-
-Me chamo **Vitor Manoel Silva Santana**, tenho 16 anos.  
-Sou natural de **Diadema - São Paulo**, e atualmente moro em **Joinville - Santa Catarina**.  
+ 
 Estudo no **Instituto Federal Catarinense – Campus Araquari**, no curso técnico em Informática para Internet integrado ao ensino médio.
 
 ---
